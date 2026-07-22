@@ -1,1 +1,3 @@
-# AI-interview-generator-
+git init
+git add .
+git commit -m "Initial commit"# AI-interview-generator-
